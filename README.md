@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rama-Andika
-- 👀 I’m interested in data scentist
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in back end development
+- 🌱 I’m currently learning back end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
