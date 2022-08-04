@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rama-Andika
-- 👀 I’m interested in back end development
-- 🌱 I’m currently learning back end
+- 👀 I’m interested in UI/UX desaigner and Frontend development
+- 🌱 I’m currently learning UI/UX desaigner and Frontend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
